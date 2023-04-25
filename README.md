@@ -5,3 +5,9 @@
   <li>Uma reunião por semana, onde faremos o alinhamento do time, trazendo o que foi que desenvolvido durante a semana e o que precisamos priozar para ser desenvolvido na próxima semana</li>
   <li>Vamos usar as linguagem de programação TypeScript, com os frameworks Nest.js e Next</li>
 </ul>
+
+Djair Maykon
+Iago Nascimento
+Caio Nascimento
+Kennedy Andrade
+Nickolas Fernandes

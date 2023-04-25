@@ -6,8 +6,12 @@
   <li>Vamos usar as linguagem de programação TypeScript, com os frameworks Nest.js e Next</li>
 </ul>
 
-Djair Maykon
-Iago Nascimento
-Caio Nascimento
-Kennedy Andrade
-Nickolas Fernandes
+Equipe:
+<ul>
+  <li>Djair Maykon</li>
+  <li>Iago Nascimento</li>
+  <li>Caio Nascimento</li>
+  <li>Kennedy Andrade</li>
+  <li>Nickolas Fernandes</li>
+ </ul>
+

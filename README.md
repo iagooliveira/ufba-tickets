@@ -6,6 +6,8 @@
   <li>Vamos usar as linguagem de programação TypeScript, com os frameworks Nest.js e Next</li>
 </ul>
 
+<p> Histórias de usuário: </p>
+
 Equipe:
 <ul>
   <li>Djair Maykon</li>

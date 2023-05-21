@@ -10,8 +10,20 @@ O projeto se trata do desenvolvimento de um sistema de gerenciamento de eventos,
 
 **Processos**
 
-O desenvolvimento seguirá um processo baseado em scrum, buscando fazer entregas de partes do sistema a cada 15 dias. Para isso, faremos uma reunião de forma síncrona e online aos sábados, as 16 horas. E nos demais dias mantemos o contato diário através de um grupo no WhatsApp. Na reunião, focamos em atualizar o que já foi desenvolvido até então, definir o que precisamos desenvolver no decorrer da próxima semana, e tirar dúvidas ou impedimentos que algum dos membros possam ter. Além disso, usamos o tempo ainda para produzir ou revisar o material que irá sem entregue na semana. 
+O desenvolvimento seguirá um processo baseado em scrum, buscando fazer entregas de partes do sistema a cada 15 dias. Para isso, faremos uma reunião de forma síncrona e online aos sábados, as 16 horas. E nos demais dias mantemos o contato diário através de um grupo no WhatsApp.
+
+Na reunião, focamos em atualizar o que já foi desenvolvido até então, definir o que precisamos desenvolver no decorrer da próxima semana, e tirar dúvidas ou impedimentos que algum dos membros possam ter. Além disso, usamos o tempo ainda para produzir ou revisar o material que irá sem entregue na semana. 
+
 Já no grupo de mensagens, passamos atualizações do desenvolvimento das tarefas, informamos sobre alguma dificuldade e tiramos dúvidas pontais que surgem. 
+
+**Produto Mínimo Viável**
+
+Definimos como MVP, as 3 primeiras histórias de usuário, sendo elas:
+* Criação de Eventos
+* Adicionar Programação de Atividades
+* Inscrição em Eventos
+
+Com o desenvolvimento destas podemos ter um produto que entrega valor para seus usuários.
 
 **Tecnologias**
 
@@ -22,10 +34,10 @@ Já no grupo de mensagens, passamos atualizações do desenvolvimento das tarefa
 * [Next.js](https://nextjs.org/)
 
 
-Equipe:
+**Equipe**
 
 *   Djair Maykon
 *   Iago Nascimento
 *   Caio Nascimento
 *   Kennedy Andrade
-*   Nickolas Fernandes
+*   Nicholas Fernandes

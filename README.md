@@ -5,7 +5,7 @@ O projeto se trata do desenvolvimento de um sistema de gerenciamento de eventos,
 **Documentos**
 * [Histórias de usuário](https://docs.google.com/document/d/1WxJJPu2D2WRI-84iTYRR4gCAXYar1nG5F2SOLMMMq3A/edit?usp=sharing)
 * [Processos de Negócio - BPMN]()
-* [Diagrama de Casos de Uso]()
+* [Diagrama de Casos de Uso](https://drive.google.com/file/d/1_v7tTmQtkyIwv8sAzV4AgGJJ1Q7ECy0l/view?usp=sharing)
 * [Diagrama de Classes]()
 
 **Processos**

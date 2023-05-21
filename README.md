@@ -9,6 +9,7 @@ O projeto se trata do desenvolvimento de um sistema de gerenciamento de eventos,
 * [Diagrama de Classes]()
 
 **Processos**
+
 O desenvolvimento seguirá um processo baseado em scrum, buscando fazer entregas de partes do sistema a cada 15 dias. Para isso, faremos uma reunião de forma síncrona e online aos sábados, as 16 horas. E nos demais dias mantemos o contato diário através de um grupo no WhatsApp. Na reunião, focamos em atualizar o que já foi desenvolvido até então, definir o que precisamos desenvolver no decorrer da próxima semana, e tirar dúvidas ou impedimentos que algum dos membros possam ter. Além disso, usamos o tempo ainda para produzir ou revisar o material que irá sem entregue na semana. 
 Já no grupo de mensagens, passamos atualizações do desenvolvimento das tarefas, informamos sobre alguma dificuldade e tiramos dúvidas pontais que surgem. 
 

@@ -18,10 +18,12 @@ Já no grupo de mensagens, passamos atualizações do desenvolvimento das tarefa
 
 **Produto Mínimo Viável**
 
-Definimos como MVP, as 3 primeiras histórias de usuário, sendo elas:
+Definimos como MVP, as seguintes histórias de usuário:
 * Criação de Eventos
 * Adicionar Programação de Atividades
 * Inscrição em Eventos
+* Desistência de evento (Usuário)
+* Visualização de eventos (Usuário)
 
 Com o desenvolvimento destas podemos ter um produto que entrega valor para seus usuários.
 

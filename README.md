@@ -29,11 +29,10 @@ Com o desenvolvimento destas podemos ter um produto que entrega valor para seus 
 
 **Tecnologias**
 
-* [TypeScript](https://www.typescriptlang.org/)
-* [Node.js](https://nodejs.org/)
-* [NestJS](https://nestjs.com/)
+* [Java](https://www.java.com/pt-BR/)
+* [Spring](https://spring.io/)
+* [JavaScript](https://www.javascript.com/)
 * [React](https://pt-br.reactjs.org/)
-* [Next.js](https://nextjs.org/)
 
 
 **Equipe**

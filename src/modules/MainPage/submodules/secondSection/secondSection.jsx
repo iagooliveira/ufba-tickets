@@ -2,7 +2,7 @@ import * as S from "./secondSectionStyles";
 
 export default function SecondSection() {
   return (
-    <S.SecondSectionDiv>
+    <S.SecondSectionDiv id="sobreNos">
       <h1>Sobre o UFBA-TICKETS</h1>
       <S.InsideDiv>
         <S.Div1>

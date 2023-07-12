@@ -12,6 +12,14 @@ import { IconContext } from "react-icons";
 import { SidebarData } from "./SidebarData";
 
 const NavBar = () => {
+ function handleClick() { 
+    const secaoDesejada = document.getElementById('sobreNos');
+    secaoDesejada.scrollIntoView({ behavior: 'smooth' });
+  }
+function handleClick2() { 
+    const secaoDesejada = document.getElementById('homeSection');
+    secaoDesejada.scrollIntoView({ behavior: 'smooth' });
+  }
   const [sidebar, setSidebar] = useState(false);
 
   const showSidebar = () => setSidebar(!sidebar);
@@ -34,8 +42,8 @@ const NavBar = () => {
             />
           </Link>
           <Wrapper>
-            <NavBarButton text="Home" />
-            <NavBarButton text="Sobre Nós" />
+            <NavBarButton text="Home" handleClick={handleClick2}/>
+            <NavBarButton text="Sobre Nós" handleClick={handleClick} />
             <NavBarButton text="Parceiros" />
             <LoginButton
               onClick={handleOpen}

@@ -3,7 +3,7 @@ import Logo from "./party_photo.jpg";
 
 const FirstSection = () => {
   return (
-    <S.MainDiv>
+    <S.MainDiv id="homeSection">
       <S.LeftDiv>
         <h1>Quer sair para se divertir, mas não sabe quando, nem onde?</h1>
         <h2>
